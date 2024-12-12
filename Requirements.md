@@ -1,7 +1,9 @@
 To use this project, ensure that you have the following dependencies installed:
 
 Python
-Ensure Python is installed on your system. You can download it from python.org.
+Ensure Python is installed on your system. You can download it from 
+		
+  		https://www.python.org/downloads/
 
 yt-dlp
 	Install yt-dlp, a command-line tool for downloading videos from YouTube and other sites.
