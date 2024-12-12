@@ -12,7 +12,7 @@ yt-dlp
 FFmpeg
 	FFmpeg is required for video/audio processing. You can download the latest build from the following link:
  
-		Download FFmpeg
+		[Download FFmpeg](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2024-12-04-git-2f95bc3cb3-full_build.7z)
 
   
 After downloading, extract the contents and ensure the ffmpeg binary is accessible from your system's PATH.
